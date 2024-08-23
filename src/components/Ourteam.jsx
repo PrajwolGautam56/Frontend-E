@@ -58,6 +58,13 @@ const people = [
             imageUrl:'images/team/rakshya.jpg',
             url:'https://www.facebook.com/'
         },
+        {
+            name: 'Anil Babu Karki',
+            role: 'Environmentalist ',
+            imageUrl:'images/team/anil.jpeg',
+            url:'https://www.facebook.com/'
+        },
+        
         
       
       

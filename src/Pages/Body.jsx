@@ -9,6 +9,10 @@ import Gallerypage from "./Gallerypage";
 import Team from "./Team";
 import Newsletter from "./Newsletter";
 import Test from "./Test";
+import GalleryEditor from "./GalleryEditor";
+import Gallery from "./Gallery";
+
+
 
 
   const appRouter = createBrowserRouter([
@@ -54,6 +58,16 @@ import Test from "./Test";
       path: "/",
       element: <Home />,
       errorElement: <Error />,
+    },
+    {
+      path: "/gal",
+      element: <Gallery />,
+      
+    },
+    {
+      path: "/admin",
+      element: <GalleryEditor />,
+      
     },
 
     
