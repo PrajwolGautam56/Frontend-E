@@ -1,283 +1,210 @@
-{ "team": [
- 
+{
+  "officeTeam": [
     {
-     "S.N": "    01.          ",
-     "Name": "Mr. Ajaya Shrestha",
-     "Designation": "Managing Director\/DRRM-CCA Expert",
-     "Area": "DRRM\/CCA, Environmental Assessments, NbS, Monitoring and Evaluation",
-     "Years": "10+"
+      "Name": "Mr. Ajaya Shrestha",
+      "Designation": "Managing Director / DRRM-CCA Expert",
+      "Area": "DRRM/CCA, Environmental Assessments, NbS, Monitoring and Evaluation",
+      "Years": "12+"
     },
     {
-     "S.N": "    02.          ",
-     "Name": "Mr. Avash Paudel",
-     "Designation": "Climate Resilience Expert",
-     "Area": "DRRM\/CCA Planning, Emergency Planning , NbS",
-     "Years": "15+"
+      "Name": "Ms. Tara Ale Magar",
+      "Designation": "Executive Director / GIS Analyst / Environment Researcher",
+      "Area": "Environmental Assessments, Geohazard and Pollution, GIS Analysis, Documentation, Administrative Management",
+      "Years": "7+"
     },
     {
-     "S.N": "    03.          ",
-     "Name": "Mr. Nawraj Sapkota",
-     "Designation": "NRM\/CCA\/DRRM Expert",
-     "Area":  "Climate Finance, Climate Change Mitigation and Adaptation, Monitoring and Evaluation / Disaster Risk Management , Sustainable Development,  Water, Sanitation, Health and Development ,Environmental Auditing and Management plan",
-     "Years": "12+"
-    },
-     
-     
-    {
-     "S.N": "    04.          ",
-     "Name": "Ms. Rakshya Neupane",
-     "Designation": "Environment Expert",
-     "Area": "Environmental Assessments and Environment Management Plan",
-     "Years": "8+"
+      "Name": "Mr. Puranjan Sapkota",
+      "Designation": "Agriculture and Livelihood Expert",
+      "Area": "Food Security and Livelihood, Agriculture Research, Insect Pest Management, DPRP, LDCRP, Agriculture periodic planning",
+      "Years": "10+"
     },
     {
-     "S.N": "    05.          ",
-     "Name": "Ms. Archana Adhikari",
-     "Designation": "NRM Expert",
-     "Area": "Natural Resource Management, Climate Resilience",
-     "Years": "10+"
+      "Name": "Mr. Bijaya Rai",
+      "Designation": "Environment Expert",
+      "Area": "Environmental Assessments, WASH",
+      "Years": "8+"
     },
     {
-     "S.N": "    06.          ",
-     "Name": "Ms. Pragya Dhakal Neupane",
-     "Designation": "Development Planning Expert",
-     "Area": "Climate Resilience Planning, Lcoal level development Plan",
-     "Years": "10+"
+      "Name": "Mr. Ujjal Acharya",
+      "Designation": "Economist / Data Analyst",
+      "Area": "Agro economy, Statistical Analysis",
+      "Years": "12+"
     },
     {
-     "S.N": "    07.          ",
-     "Name": "Mr. Puranjan Sapkota",
-     "Designation": "Agriculture and Livelihood Expert",
-     "Area": "Food Security and Livelihood, Agriculture Research, Insect Pest Management, DPRP, LDCRP, Agriculture periodic planning",
-     "Years": "8+"
-    },
-    
-    {
-     "S.N": "    08.          ",
-     "Name": "Mr. Bijaya Rai",
-     "Designation": "Environment Expert",
-     "Area": "Environmental Assessments, WASH",
-     "Years": "7+"
+      "Name": "Ms. Tikeshwari Joshi",
+      "Designation": "GEDSI / NRM Expert",
+      "Area": "GEDSI, Natural Resource Management, Gender and Social Inclusion",
+      "Years": "15+"
     },
     {
-     "S.N": "    09.          ",
-     "Name": "Mr. Annan Shrestha",
-     "Designation": "GIS and RS Expert\/Data Management",
-     "Area": "Geospatial planning on DRRM\/CCA, Data management and analysis",
-     "Years": "6+"
+      "Name": "Ms. Pragya Dhakal Neupane",
+      "Designation": "Development Planning Expert",
+      "Area": "Climate Resilience Planning, Local level development Plan",
+      "Years": "10+"
     },
     {
-     "S.N": "    10.          ",
-     "Name": "Ms. Tara Ale",
-     "Designation": "Environment Researcher",
-     "Area": "Environmental Assessments, Geohazard and Pollution, Documentation, Administrative Management",
-     "Years": "4+"
+      "Name": "Ms. Rakshya Neupane",
+      "Designation": "Environment Expert",
+      "Area": "Environmental Assessments and Environment Management Plan",
+      "Years": "8+"
     },
     {
-     "S.N": "    11.          ",
-     "Name": "Mr.Murli Shah",
-     "Designation": "Civil Engineer",
-     "Area": "Engineering design and estimates, drawing",
-     "Years": "6+"
+      "Name": "Mr. Annan Shrestha",
+      "Designation": "GIS RS Modelling Expert",
+      "Area": "Geospatial planning on DRRM/CCA, Data management and analysis",
+      "Years": "7+"
     },
     {
-     "S.N": "    12.          ",
-     "Name": "Ishwor Dahal",
-     "Designation": "Auditor",
-     "Area": "Auditing, financial management",
-     "Years": "5+"
+      "Name": "Mr. Murli Shah",
+      "Designation": "Civil Engineer",
+      "Area": "Engineering design and estimates, drawing",
+      "Years": "6+"
     },
     {
-     "S.N": "    13.          ",
-     "Name": "Sabita Khanal",
-     "Designation": "Administration Expert",
-     "Area": "Administration and logistic maangement",
-     "Years": "5+"
-    },
-    
-    {
-     "S.N": "    14.          ",
-     "Name": "Lawyer Raju Thapa, PhD",
-     "Designation": "DRRM Governance Expert\/Legal Expert",
-     "Area": "Disaster management, conflict management, political science, sociology and human rights, legal aspects",
-     "Years": "20+"
-    },
-    {
-     "S.N": "    15.          ",
-     "Name": "Ms. Basana Sapkota",
-     "Designation": "CCA and GEDSI Expert",
-     "Area": "Climate Change Adaptation, Disaster Risk Management, REDD+, Natural Resource Management (NRM), Gender and Social Inclusion (GESI), and Humanitarian Response",
-     "Years": "20+"
-    },
-    {
-     "S.N": "    16.          ",
-     "Name": "Dr. Jagadish Parajuli",
-     "Designation": "CCA Expert",
-     "Area": "Sustainability, natural resources management, climate change adaptation, and resilience",
-     "Years": "20+"
-    },
-    {
-     "S.N": "    17.          ",
-     "Name": "Dr. Bijaya Singh Danuwar",
-     "Designation": "CCA Expert",
-     "Area": "Environmental  studies,  livelihoods,  governance,  DRM,  biodiversity  and  climate change.",
-     "Years": "25+"
-    },
-    
-    {
-     "S.N": "    18.          ",
-     "Name": "Dr. Govinda Bahadur Basnet",
-     "Designation": "Environmental Anthropologist",
-     "Area": "Natural Resource Management, Livelihood Improvement,Agriculture, General Development, Environment Conservation, Climate Change, Disaster Risk Reduction, Biodiversity Conservation, And Institution Strengthening",
-     "Years": "20+"
-    },
-    
-     
-    {
-     "S.N": "    19.          ",
-     "Name": "Mr. Suresh Bhattarai",
-     "Designation": "Resilient and Sustainable Development Expert",
-     "Area": "DRRM\/Livelihood\/Sustainability\/GIS and RS",
-     "Years": "15+"
-    },
-    {
-     "S.N": "    20.          ",
-     "Name": "Dr. Roshan Sherchan",
-     "Designation": "Climate Change Expert\/Biodiversity Expert",
-     "Area": "Climate Change Adaptation, Integrated Water Resources Management (IWRM) and DRR, Indigenous Knowledge Management, Community Based Biodiversity Conservation, Strengthening Ecotourism",
-     "Years": "25+"
-    },
-    
-    {
-     "S.N": "    21.          ",
-     "Name": "Dr. Sushila Chattarjee Nepali",
-     "Designation": "GEDSI Expert\/Forestry Expert",
-     "Area": "Forestry, NRM, GEDSI Integration",
-     "Years": "25+"
-    },
-    {
-     "S.N": "    22.          ",
-     "Name": "Mr. Ujjwal Acharya",
-     "Designation": "Agro Economist\/Data Analyst",
-     "Area": "Agro economy, Statistical Analysis",
-     "Years": "15+"
-    },
-    {
-     "S.N": "    23.          ",
-     "Name": "Dr. Kishor Kumar Maharjan",
-     "Designation": "Solid Waste Management Expert",
-     "Area": "Waste Management",
-     "Years": "20+"
-    },
-    {
-     "S.N": "    24.          ",
-     "Name": "Mr. Bijaya Raj Paudyal",
-     "Designation": "Biodiversity Expert",
-     "Area": "Watershed  Management,  Environmental  Management, Climate Change Mitigation and Adaptation, Policy, Legal and Institutional, Expert Forest and NTFPs Management, Biodiversity Conservation",
-     "Years": "25+"
-    },
-     
-     
-    {
-     "S.N": "    25.          ",
-     "Name": "Dr. Kumud Raj Kafle",
-     "Designation": "Geologist\/NRM Expert",
-     "Area": "Geology\/Geo-hazard\/NRM\/DRRM",
-     "Years": "25+"
-    },
-    {
-     "S.N": "    26.          ",
-     "Name": "Dr. Narayan Bahadur Thapa",
-     "Designation": "Regional Planner\/Disaster Management and Governance Expert",
-     "Area": "Disaster Governance and Policy\/Regional Planning",
-     "Years": "30+"
-    },
-    
-    {
-     "S.N": "    27.          ",
-     "Name": "Prof. Mukesh Kumar Chalise",
-     "Designation": "Senior Zoologist",
-     "Area": "Zoologist\/Primatologist",
-     "Years": "30+"
-    },
-    {
-     "S.N": "    28.          ",
-     "Name": "Dr. Sailesh Ranjitkar",
-     "Designation": "Climate Change and Livelihood Expert",
-     "Area": "Mountain Ecosystem, biodiversity, agroforestry system",
-     "Years": "15+"
-    },
-    
-    {
-     "S.N": "    29.          ",
-     "Name": "Mr. Prakash Lamichane",
-     "Designation": "Energy Expert",
-     "Area": "Renewable Energy",
-     "Years": "20+"
-    },
-    
-    {
-     "S.N": "    30.          ",
-     "Name": "Mr. Rabi Bhattarai",
-     "Designation": "Environment Safeguard Specialist",
-     "Area": "Environmental Assessments, EMP Implementation",
-     "Years": "15+"
-    },
-    
-    {
-     "S.N": "    31.          ",
-     "Name": "Ms. Kabita Karki",
-     "Designation": "Wildlife Expert",
-     "Area": "Wildlife study and conflict management, environmental assessments, climate change adaptation",
-     "Years": "15+"
-    },
-    {
-     "S.N": "    32.          ",
-     "Name": "Mr Bhupmani Dahal",
-     "Designation": "DRRM Expert\/Sociologist",
-     "Area": "Training and Facilitation in Mainstreaming Disaster Risk Management\/Climate Risk Management, Community Based, Disaster  Risk  Reduction,  Climate  Change  Adaptation,  ,  VCA,  SWOT,  Emergency  Response,  Sphere,    Preparation, Local  Disaster  Risk  Management Plan (LDRMP)  ,Gender , Child Centered Disaster Risk Reduction/Management, Enterprises and Development, School Safety and development planning, policy  and GESI ",
-     "Years": "15+"
-    },
-     
-    {
-     "S.N": "    33.          ",
-     "Name": "Mr. Sanu Raja Maharjan",
-     "Designation": "Ecologist",
-     "Area": "Ecological assessment, biodiversity assessment and management",
-     "Years": "20+"
-    },
-    
-    {
-     "S.N": "    34.          ",
-     "Name": "Mr. Mahesh Parajuli",
-     "Designation": "Civil Engineer",
-     "Area": "Civil Engineering Drawings, Design and Analysis",
-     "Years": "7+"
-    },
-    
-    {
-     "S.N": "    35.          ",
-     "Name": "Binod Niraula",
-     "Designation": "Socio Economist",
-     "Area": "Socio-economic analysis, facilitation, development planning",
-     "Years": "15+"
-    },
-   
-    {
-     "S.N": "    36.          ",
-     "Name": "Mr Subodh Niraula",
-     "Designation": "Geologist\/GIS and RS Expert",
-     "Area": "Geohazard analysis, GIS and RS",
-     "Years": "12+"
-    },
-    
-    {
-     "S.N": "    37.          ",
-     "Name": "Mr Hira Bahadur Ghale",
-     "Designation": "Social Development Expert",
-     "Area": "Socio-economic analysi, development planning",
-     "Years": "20+"
+      "Name": "Ishwor Dahal",
+      "Designation": "Admin and Finance",
+      "Area": "Administration, financial management",
+      "Years": "6+"
     }
-   ]
-
+  ],
+  "experts": [
+    {
+      "Name": "Lawyer Raju Thapa, PhD",
+      "Designation": "DRRM Governance Expert/Legal Expert",
+      "Area": "Disaster management, conflict management, political science, sociology and human rights, legal aspects",
+      "Years": "20+"
+    },
+    {
+      "Name": "Ms. Basana Sapkota",
+      "Designation": "CCA and GEDSI Expert",
+      "Area": "Climate Change Adaptation, Disaster Risk Management, REDD+, Natural Resource Management (NRM), Gender and Social Inclusion (GESI), and Humanitarian Response",
+      "Years": "20+"
+    },
+    {
+      "Name": "Dr. Jagadish Parajuli",
+      "Designation": "CCA Expert",
+      "Area": "Sustainability, natural resources management, climate change adaptation, and resilience",
+      "Years": "20+"
+    },
+    {
+      "Name": "Dr. Bijaya Singh Danuwar",
+      "Designation": "CCA Expert",
+      "Area": "Environmental studies, livelihoods, governance, DRM, biodiversity and climate change.",
+      "Years": "25+"
+    },
+    {
+      "Name": "Dr. Govinda Bahadur Basnet",
+      "Designation": "Environmental Anthropologist",
+      "Area": "Natural Resource Management, Livelihood Improvement, Agriculture, General Development, Environment Conservation, Climate Change, Disaster Risk Reduction, Biodiversity Conservation, And Institution Strengthening",
+      "Years": "20+"
+    },
+    {
+      "Name": "Mr. Suresh Bhattarai",
+      "Designation": "Resilient and Sustainable Development Expert",
+      "Area": "DRRM/Livelihood/Sustainability/GIS and RS",
+      "Years": "15+"
+    },
+    {
+      "Name": "Dr. Roshan Sherchan",
+      "Designation": "Climate Change Expert/Biodiversity Expert",
+      "Area": "Climate Change Adaptation, Integrated Water Resources Management (IWRM) and DRR, Indigenous Knowledge Management, Community Based Biodiversity Conservation, Strengthening Ecotourism",
+      "Years": "25+"
+    },
+    {
+      "Name": "Dr. Sushila Chattarjee Nepali",
+      "Designation": "GEDSI Expert/Forestry Expert",
+      "Area": "Forestry, NRM, GEDSI Integration",
+      "Years": "25+"
+    },
+    {
+      "Name": "Dr. Kishor Kumar Maharjan",
+      "Designation": "Solid Waste Management Expert",
+      "Area": "Waste Management",
+      "Years": "20+"
+    },
+    {
+      "Name": "Mr. Bijaya Raj Paudyal",
+      "Designation": "Biodiversity Expert",
+      "Area": "Watershed Management, Environmental Management, Climate Change Mitigation and Adaptation, Policy, Legal and Institutional, Expert Forest and NTFPs Management, Biodiversity Conservation",
+      "Years": "25+"
+    },
+    {
+      "Name": "Dr. Kumud Raj Kafle",
+      "Designation": "Geologist/NRM Expert",
+      "Area": "Geology/Geo-hazard/NRM/DRRM",
+      "Years": "25+"
+    },
+    {
+      "Name": "Dr. Narayan Bahadur Thapa",
+      "Designation": "Regional Planner/Disaster Management and Governance Expert",
+      "Area": "Disaster Governance and Policy/Regional Planning",
+      "Years": "30+"
+    },
+    {
+      "Name": "Prof. Mukesh Kumar Chalise",
+      "Designation": "Senior Zoologist",
+      "Area": "Zoologist/Primatologist",
+      "Years": "30+"
+    },
+    {
+      "Name": "Dr. Sailesh Ranjitkar",
+      "Designation": "Climate Change and Livelihood Expert",
+      "Area": "Mountain Ecosystem, biodiversity, agroforestry system",
+      "Years": "15+"
+    },
+    {
+      "Name": "Mr. Prakash Lamichane",
+      "Designation": "Energy Expert",
+      "Area": "Renewable Energy",
+      "Years": "20+"
+    },
+    {
+      "Name": "Mr. Rabi Bhattarai",
+      "Designation": "Environment Safeguard Specialist",
+      "Area": "Environmental Assessments, EMP Implementation",
+      "Years": "15+"
+    },
+    {
+      "Name": "Ms. Kabita Karki",
+      "Designation": "Wildlife Expert",
+      "Area": "Wildlife study and conflict management, environmental assessments, climate change adaptation",
+      "Years": "15+"
+    },
+    {
+      "Name": "Mr Bhupmani Dahal",
+      "Designation": "DRRM Expert/Sociologist",
+      "Area": "Training and Facilitation in Mainstreaming Disaster Risk Management/Climate Risk Management, Community Based Disaster Risk Reduction, Climate Change Adaptation, VCA, SWOT, Emergency Response, Sphere, Preparation, Local Disaster Risk Management Plan (LDRMP), Gender, Child Centered Disaster Risk Reduction/Management, Enterprises and Development, School Safety and development planning, policy and GESI",
+      "Years": "15+"
+    },
+    {
+      "Name": "Mr. Sanu Raja Maharjan",
+      "Designation": "Ecologist",
+      "Area": "Ecological assessment, biodiversity assessment and management",
+      "Years": "20+"
+    },
+    {
+      "Name": "Mr. Mahesh Parajuli",
+      "Designation": "Civil Engineer",
+      "Area": "Civil Engineering Drawings, Design and Analysis",
+      "Years": "7+"
+    },
+    {
+      "Name": "Binod Niraula",
+      "Designation": "Socio Economist",
+      "Area": "Socio-economic analysis, facilitation, development planning",
+      "Years": "15+"
+    },
+    {
+      "Name": "Mr Subodh Niraula",
+      "Designation": "Geologist/GIS and RS Expert",
+      "Area": "Geohazard analysis, GIS and RS",
+      "Years": "12+"
+    },
+    {
+      "Name": "Mr Hira Bahadur Ghale",
+      "Designation": "Social Development Expert",
+      "Area": "Socio-economic analysis, development planning",
+      "Years": "20+"
+    }
+  ]
 }
